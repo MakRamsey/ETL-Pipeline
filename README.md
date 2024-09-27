@@ -16,7 +16,7 @@ Welcome to the ETL-Pipeline repository! This project utilizes Python, Pandas and
   
 - 'SQL_Output_Pictures' - Directory containing pictures for each table's 'SELECT *' statement PostgreSQL output for verification. Included are four picutres corresponding to the "Campaign", "Category", "Contacts" and "Subcategory" tables ("Campaign_SQL_Table_Output.png", "Category_SQL_Table_Output.png", "Contacts_SQL_Table_Output.png", "Subcategory_SQL_Table_Output.png")
   
-- "Resources" - Directory containing the two initial starting datasets ("crowdfunding.xlsx" & "contacts.xlsx"), as well as the four generated CSV files ("campaign.csv", "category.csv", "contacts.csv", "subcategory.csv")
+- 'Resources' - Directory containing the two initial starting datasets ("crowdfunding.xlsx" & "contacts.xlsx"), as well as the four generated CSV files ("campaign.csv", "category.csv", "contacts.csv", "subcategory.csv")
 
 **Team Members:**
 
